@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Photo Enhancer",
+  "description": "Upload a photo and use AI to edit or enhance it in seconds with powerful text prompts. This app uses Gemini Nano Banana for near-instant image modifications.",
+  "requestFramePermissions": []
+}
